@@ -1,7 +1,7 @@
 import Nav from "./Nav.jsx";
 import PageHeading from "./PageHeading.jsx";
 import AnimatedCardGrid from "./AnimatedCardGrid.jsx";
-import { home } from "../data/site.js";
+import { home } from "../Data/site.js";
 
 // 注意：这个组件里几乎一个"内容"都没写死——
 // 标题、副标题、作品文案、座右铭……全部从 site.js 的 home 里读。
